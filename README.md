@@ -1,2 +1,3 @@
 # jasypt-spring5-testapp
-Attempt to use Jasypt with Spring 5 Java Configurations
+Unsuccessful attempt to use [Jasypt](https://github.com/jasypt/jasypt) with Spring 5 Java Configurations
+
